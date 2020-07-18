@@ -6,7 +6,7 @@
 - 🏢 I'm currently working at **Tapps Games**
 - ⚙️ I use daily: `Unity3D`, `C#`, `Javascript`, `Python`
 - 💬 Ping me about **Game Development**, **Graphics Programming**, **C++**, **Software Optimization**
-- 🌱 Currently learning all about **Large Scale Distributed Systems, High Performance Computing**
+- 🌱 Currently learning about **Large Scale Distributed Systems, High Performance Computing**
 - 📖 OMSCS student at **Georgia Tech**
 - 📫 Reach me: [https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US](https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US)
 
