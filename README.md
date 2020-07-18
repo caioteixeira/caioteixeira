@@ -1,7 +1,7 @@
 ### Hello, I'm Caio Teixeira :)
 
 #### I'm a Software Engineer from São Paulo, Brazil. 
-#### Mostly working with **Game Development**, but what I really love is to **solve interesting problems with Computer Science**.
+#### Mostly working with **Game Development**, because what I really love is to **solve interesting problems with Computer Science**.
 
 - 🏢 I'm currently working at **Tapps Games**
 - ⚙️ I use daily: `Unity3D`, `C#`, `Javascript`, `Python`
