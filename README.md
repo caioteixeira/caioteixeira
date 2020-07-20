@@ -3,7 +3,7 @@
 #### I'm a Software Engineer from São Paulo, Brazil. 
 #### Mostly working with **Game Development**, because what I really love is to solve interesting problems with Software Engineering and Computer Science.
 
-- 🏢 I'm currently working at **Tapps Games**
+- 🏢 I'm currently working at **Tapps Games** doing Gameplay and Tools.
 - ⚙️ I use daily: `Unity3D`, `C#`, `Javascript`, `Python`
 - 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Software Optimization**
 - 🌱 Currently learning about **Large Scale Distributed Systems, High Performance Computing**
