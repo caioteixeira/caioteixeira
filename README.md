@@ -5,10 +5,12 @@
 
 - 🏢 I'm currently working at **Tapps Games** doing Gameplay and Tools.
 - ⚙️ I use daily: `Unity3D`, `C#`, `Javascript`, `Python`
+- :blue_book: I also know (in different levels): `C++`, `Golang`, `Direct3D`, `Vulkan`, `OpenGL`
 - 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Software Optimization**
 - 🌱 Currently learning about **Large Scale Distributed Systems, High Performance Computing**
-- 📖 OMSCS student at **Georgia Tech**
+- 📖 OMSCS student at **Georgia Institute of Technology**
 - 📫 Reach me: [https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US](https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US)
+- ⚡ Interests and Hobbies: `Aviation and Space enthusiast`, curious about `financial market and macroeconomics`, `Fantasy and SciFi` nerd.
 
 <!--
 **caioteixeira/caioteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
