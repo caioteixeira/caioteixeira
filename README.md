@@ -4,8 +4,8 @@
 #### Mostly working with **Game Development**, because what I really love is to solve interesting problems with Software Engineering and Computer Science.
 
 - 🏢 I'm currently working as an **Independent Contractor** for the mobile games industry doing Gameplay and Tools.
-- ⚙️ I use daily: `Unity3D`, `C#`, `Javascript`, `Python`, `C\C++`
-- :blue_book: I also know (in different levels): `C++`, `Golang`, `Direct3D`, `Vulkan`, `OpenGL`
+- ⚙️ I use daily: `Unity3D`, `C#`, `C\C++`
+- :blue_book: I also know (in different levels): `C++`, `Golang`, `Direct3D`, `Vulkan`, `OpenGL`, `Javascript`, `Python`
 - 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Software Optimization**
 - 🌱 Currently learning about **Large Scale Distributed Systems, High Performance Computing**
 - 📖 OMSCS student at **Georgia Institute of Technology**
