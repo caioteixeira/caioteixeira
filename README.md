@@ -5,9 +5,9 @@
 
 - 🏢 I'm currently working as an **Independent Contractor** in the mobile games industry doing Gameplay, Tools and Software Optimization.
 - ⚙️ I use daily: `Unity3D`, `C#`, `C\C++`
-- :blue_book: I also know (in different levels): `C++`, `Javascript`, `Python`, `Golang`, `Direct3D`, `Vulkan`, `OpenGL`, 
-- 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Software Optimization**
-- 🌱 Currently learning about **Web Development and Distributed Systems**
+- :blue_book: I also know (in different levels): `C++`, `Javascript`, `Python`, `Direct3D`, `Vulkan`, `OpenGL`, 
+- 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Rust**, **Software Optimization**
+- 🌱 Currently learning about **🦀 Rust and Distributed Systems**
 - 📖 OMSCS student at **Georgia Institute of Technology**
 - 📫 Reach me: [https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US](https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US)
 - ⚡ Interests and Hobbies: `Aviation and Space enthusiast`, curious about `financial market and macroeconomics`, `Fantasy and SciFi` nerd.
