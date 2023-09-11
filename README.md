@@ -3,12 +3,14 @@
 #### I'm a Software Engineer from São Paulo, Brazil. 
 #### Mostly working with **Game Development**, because what I really love is to solve interesting problems with Software Engineering and Computer Science.
 
-- 🏢 I'm currently working as an **Independent Contractor** in the mobile games industry doing Gameplay, Tools and Software Optimization.
-- ⚙️ I use daily: `Unity3D`, `C#`, `C\C++`
-- :blue_book: I also know (in different levels): `C++`, `Javascript`, `Python`, `Direct3D`, `Vulkan`, `OpenGL`, 
+- 🏢 I'm currently working at X-Team and Riot Games working with platform services, Xbox Series X/S and PS5 development, and integrating shared services with game projects.
+- ⚙️ I use at work: `C++`, `C#`, `Unity3D` and `Unreal Engine`
 - 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Rust**, **Software Optimization**
-- 🌱 Currently learning about **🦀 Rust and Distributed Systems**
-- 📖 OMSCS student at **Georgia Institute of Technology**
+- 🌱 Currently learning about **🦀 Rust and Unreal Engine**
+- 👨‍🎓 Academic background
+  - MSc. Computer Science (Georgia Institute of Technology).
+  - Specialization in Video Game Programming (University of Sothern California).
+  - B.S. Computer Information Systems (University of São Paulo).
 - 📫 Reach me: [https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US](https://www.linkedin.com/in/caioviniciusteixeira/?locale=en_US)
 - ⚡ Interests and Hobbies: `Aviation and Space enthusiast`, curious about `financial market and macroeconomics`, `Fantasy and SciFi` nerd.
 
