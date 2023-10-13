@@ -1,10 +1,10 @@
 ### Hello, I'm Caio Teixeira :)
 
-#### I'm a Software Engineer from São Paulo, Brazil. 
+#### I'm a Software Engineer from São Paulo, Brazil.
 #### Mostly working with **Game Development**, because what I really love is to solve interesting problems with Software Engineering and Computer Science.
 
-- 🏢 I'm currently working at X-Team and Riot Games working with platform services, Xbox Series X/S and PS5 development, and integrating shared services with game projects.
-- ⚙️ I use at work: `C++`, `C#`, `Unity3D` and `Unreal Engine`
+- 🏢 I'm currently a Software Engineering Contractor at Riot Games via X-Team. I am working with internal C++ SDKs, platform services, Xbox Series X/S and PS5 development, and integrating shared services with game projects.
+- ⚙️ I use at work: `C++`, `Unreal Engine`, `C#`, and `Unity3D`
 - 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Rust**, **Software Optimization**
 - 🌱 Currently learning about **🦀 Rust and Unreal Engine**
 - 👨‍🎓 Academic background
