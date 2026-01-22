@@ -4,9 +4,9 @@
 #### Mostly working in the **Games Industry**, because what I really love is solving interesting problems with Software Engineering and Computer Science.
 
 - 🏢 I'm currently a Software Engineering Contractor working at X-Team and Riot Games. I am working with internal C++ SDKs, platform services, Xbox Series X/S, and PS5 development, and integrating shared services with game projects.
-- ⚙️ I use at work: `C++`, `Unreal Engine`, `C#`, and `Unity3D`
-- 💬 Ping me about **Game Programming**, **Graphics Programming**, **C++**, **Rust**, **Software Optimization**
-- 🌱 Currently learning about ** Golang and Unreal Engine**
+- ⚙️ I use at work: `C++`, `Unreal Engine`, `Golang`
+- 💬 Ping me about **Game Programming**, **Graphics Programming**, **Backend**, **C++**, **Rust**, **Golang**, **Software Optimization**
+- 🌱 Currently learning about **Golang and Unreal Engine**
 - 👨‍🎓 Academic background
   - MSc. Computer Science (Georgia Institute of Technology).
   - Specialization in Video Game Programming (University of Southern California).
